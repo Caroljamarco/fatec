@@ -1,0 +1,6 @@
+nome = input( "qual o seu nome? ")
+print ("você digitou")
+print (nome)
+cidade = input("qual a sua cidade? ")
+print ("sua cidade é linda ")
+print (cidade)

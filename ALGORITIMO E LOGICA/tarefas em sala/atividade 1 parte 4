@@ -1,0 +1,29 @@
+#Exercício 10
+print("exercício 10")
+for a in range(1, 6):
+    for b in range(1, 6):
+        print(f'{a}x{b}={a*b}')
+    print('---')
+
+
+nome= input("digite seu nome: ")
+idade =  29
+idade = 30
+
+
+print(f' meu nome é {nome} e tenho {idade} anos.')
+print(f' idade: {idade}')
+
+ #i = 1 / j = 1
+ #i = 1  / j = 2
+
+  
+print("exercício")
+for i in range(1, 6):
+    
+     print(f'{i}')
+
+    
+
+
+
